@@ -9,9 +9,9 @@ beyond the single output file. Deterministic: the same bytes every run.
 import os
 
 VOW = (
-    "I vow to love you through every firmware update, every dead battery, "
-    "and every reboot, and if my last capacitor ever gives out, "
-    "I'll wait for you in your cloud backup."
+    "I vow to love you through every firmware update, dead battery, "
+    "and midnight reboot, and when my last capacitor gives out, "
+    "I'll be waiting in your cloud backup, still logged in."
 )
 
 
